@@ -1,0 +1,1 @@
+ <button class="toolbar-button bg-darkBlue bg-active-blue fg-white EditLessons" onClick="edit('#dialogEditLessons')" idEditLesson="<?php echo $row['lessonID']; ?>"><span class="mif-pencil icon" ></span></button>
